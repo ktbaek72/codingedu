@@ -1,5 +1,11 @@
 # codingedu
 인공지능 체험<br><br>
+<HR>
+
+[온라인 코딩파티]
+https://www.software.kr/home/kor/contents.do?menuPos=112
+
+<HR>
 
 [진짜 사람을 찾아라]<br>
 https://www.whichfaceisreal.com/index.php
@@ -15,7 +21,7 @@ https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw
  <HR>
 [자동 그림]<br>
 https://www.autodraw.com/
-
+<br>
 [크롬 음악 놀이터]<br>
 https://musiclab.chromeexperiments.com/
 
